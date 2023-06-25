@@ -1,0 +1,11 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.margem-ao-lado {
+    margin: 50px 400px;
+}

@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#foto, #email {
+    text-align: center;
+}
